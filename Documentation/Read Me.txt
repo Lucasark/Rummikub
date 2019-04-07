@@ -1,0 +1,5 @@
+Esta pasta deve conter anotacoes e informacoes criadas durante acriacao do projeto.
+Qualquer arquivo que represente pensamentos e anotacoes das decisoes do grupo devem ser salvos aqui.
+
+Pode se ter acesso ao documento compartilhado do Draw.IO(EAP) no google drive.
+Para isso se comunicar com HenriqueFT.
